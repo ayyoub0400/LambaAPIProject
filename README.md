@@ -2,6 +2,10 @@
 
 A simple URL shortener application built with Node.js and Express that integrates with the URL shortener API.
 
+1) The Web app performs validation checks and sends the request to the API Gateway. 
+2) The API passes the request to Lambda which then acts accordingly based off of the HTTP method. 
+3) DynamoDB is used as the data tier in this project. 
+
 ## Features
 
 - Simple and clean user interface
