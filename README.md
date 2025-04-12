@@ -1,6 +1,8 @@
 # Static URL Shortener Application
 
-A simple, static -AI Generated- HTML/CSS/JavaScript URL shortener application that integrates with the URL shortener API.
+A simple, static -AI Generated- HTML/CSS/JavaScript web app. 
+
+Provides a simple UI to facilitate POST requests for my URL shortener API.
 
 ## Features
 
